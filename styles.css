@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+
+h2,h3,h4 {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Cinzel', serif;
+ }
+
+.font-maleficent{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Cinzel', serif;
+}
+
+.navbar{
+    background: transparent;
+}
