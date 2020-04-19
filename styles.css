@@ -12,3 +12,10 @@ h2,h3,h4 {
     font-family: 'Cinzel', serif;
 }
 
+
+/*Add this to your css to change the element position*/
+
+.carousel-caption {
+    top:auto;
+    bottom: 0;
+}
